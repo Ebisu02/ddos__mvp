@@ -1,0 +1,7 @@
+{
+  "window_size": 30,
+  "z_threshold": 3.0,
+  "rps_hard_threshold": 1200,
+  "bps_hard_threshold": 80000000,
+  "min_consecutive_points": 3
+}
